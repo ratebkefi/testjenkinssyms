@@ -1,0 +1,19 @@
+present simple : routine
+  : ( he , she , it )  verb + S => Sam drinks coffee => “We like spring
+? : Do + subject (“I, you, we, they”) + verb => Do I drink coffee every morning
+? : Does + subject (“he, she, it”) + verb (no S) => “why does Paul often work late?
+- : Do not (don’t) or does not + verb (no s) =>I do not (don’t) work .. => My mom does not (doesn’t) like ...)
+
+Present Progressive :  dans se moment
+  : Subject + be(am , are , they) + verb(ing) => bark is sleeping on my bed.
+? :  be +the subject =>
+- : Be + not => you aren’t
+
+Simple past : 
+ : Subject + verb(d or ed) + object => I worked very hard last year (sauf irregular verb)
+ ? : Did (helping verb) + subject + verb (present form)  : Did you tell ..?
+ - : Did not , didn’t. => I didn't steal your bubble gum
+
+
+
+
